@@ -1,4 +1,4 @@
 BasicSpringBoot Application to create microservice to expose the appliance information to the end user. \n
-USer can sed the @Get Request to get all appliance information.
-@POST to create a new Appliance and stor them to Database/ persistance storage.
-@Delete option to delete a appliance from the DB/ persistance storage.
+User can use the @Get Request to get all appliance information.
+@POST to create a new Appliance and store them in Database/persistence storage.
+@Delete option to delete an appliance from the DB/persistence storage.
